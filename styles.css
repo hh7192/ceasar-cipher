@@ -1,0 +1,13 @@
+body {
+  background: linear-gradient(
+    90deg,
+    rgba(255, 201, 227, 0.7091211484593838) 0%,
+    rgba(191, 135, 255, 1) 100%
+  );
+}
+
+.image {
+  border-radius: 1rem;
+  width: 100px;
+  height: 150px;
+}
